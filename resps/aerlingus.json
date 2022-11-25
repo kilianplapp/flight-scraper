@@ -1,0 +1,111 @@
+{
+    "data": {
+        "type": "flights",
+        "attributes": {
+            "flowType": null,
+            "waivedChangeFee": false,
+            "familyFirst": false,
+            "isValidPromoCode": true,
+            "isAllCorpFare": false,
+            "currency": "EUR"
+        },
+        "journey": {
+            "outbound": {
+                "isFlightFlown": false,
+                "isAlreadyUpgraded": false,
+                "message": null,
+                "isLongHaul": false,
+                "isTransatlantic": false,
+                "isNorthAmerican": false,
+                "isUk": false,
+                "flights": [
+                    {
+                        "totalDuration": "2h50",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "1",
+                                    "type": "low",
+                                    "price": 395.29,
+                                    "discount": 0,
+                                    "fullPrice": 395.29,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "POW26",
+                                            "flightNumber": "EI660"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "2",
+                                    "type": "plus",
+                                    "price": 453.29,
+                                    "discount": 0,
+                                    "fullPrice": 453.29,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26PLUS",
+                                            "flightNumber": "EI660"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "3",
+                                    "type": "flex",
+                                    "price": 485.29,
+                                    "discount": 0,
+                                    "fullPrice": 485.29,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26FLEX",
+                                            "flightNumber": "EI660"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "discountedFareTypes": []
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "2h50m",
+                                "departure": {
+                                    "date": "2022-11-27T07:10:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2022-11-27T11:00:00.000",
+                                    "airportCode": "VIE"
+                                },
+                                "info": {
+                                    "number": "660",
+                                    "code": "EI 660",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2",
+                                    "isAerlingusUK": false
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "discountedFareTypes": []
+            },
+            "inbound": null
+        }
+    }
+}

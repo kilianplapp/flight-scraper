@@ -1,0 +1,1997 @@
+{
+    "termsOfUse": "https: //www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+    "currency": "EUR",
+    "currPrecision": 2,
+    "routeGroup": "UKP",
+    "tripType": "OTHER",
+    "upgradeType": "PLUS",
+    "trips": [
+        {
+            "origin": "DUB",
+            "originName": "Dublin ",
+            "destination": "LGW",
+            "destinationName": "London (Gatwick)",
+            "routeGroup": "UKP",
+            "tripType": "OTHER",
+            "upgradeType": "PLUS",
+            "dates": [
+                {
+                    "dateOut": "2022-11-28T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": 3,
+                            "flightKey": "FR~ 265~ ~~DUB~11/28/2022 07:00~LGW~11/28/2022 08:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "XAM5GZYD522MLAL6JDYUS5BUFOKBXQNME7HETWPINEA43M65O2DLQK5IG2QMQ53JHSJAWDHWQUHHXKSB7PSD6DVULNL4I4ACUBRS6CNNHMEFXZALIXHEFEKZ4VB3MDUBBRHGPCL7BHRY2TEYPSAPJD6LU7VC77FWL5Y7F52TRQW5ERF3VBANK2QXTPZGEBXDBLEGNWORSAVBO",
+                                "fareClass": "H",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 50.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 50.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 265",
+                                    "time": [
+                                        "2022-11-28T07:00:00.000",
+                                        "2022-11-28T08:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T07:00:00.000Z",
+                                        "2022-11-28T08:25:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 265",
+                            "time": [
+                                "2022-11-28T07:00:00.000",
+                                "2022-11-28T08:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T07:00:00.000Z",
+                                "2022-11-28T08:25:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 142~ ~~DUB~11/28/2022 07:50~LGW~11/28/2022 09:15~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "PJFHQO7KEBDYNGUHVOQ6SLQT5U3ABDBSIDNBC36KWSKRG5TMDGISFUN2LRFW7UR35XNWMHOSJRUVIDWHV6QFTP3RVZTFEBYRQUKUB2KJXNYWLK3IFZMHMXXJLT343PGOBVU5N7I3J6ZDEAZKWEW7AT727S4UZFJLTJ4D7L6U2OLEK272LUWD3J5RGC5FJMWCPUQQAAGEPHRBA",
+                                "fareClass": "J",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 37.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 37.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 142",
+                                    "time": [
+                                        "2022-11-28T07:50:00.000",
+                                        "2022-11-28T09:15:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T07:50:00.000Z",
+                                        "2022-11-28T09:15:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 142",
+                            "time": [
+                                "2022-11-28T07:50:00.000",
+                                "2022-11-28T09:15:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T07:50:00.000Z",
+                                "2022-11-28T09:15:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 112~ ~~DUB~11/28/2022 09:35~LGW~11/28/2022 11:00~~",
+                            "infantsLeft": 16,
+                            "regularFare": {
+                                "fareKey": "XAM5GZYD522MLAL6JDYUS5BUFOKBXQNME7HETWPINEA43M65O2DIGJIVBMHXT4X66JMII5SL3MKZ7WNTIUMAHSOANNNP6GVDBXT5SKXLJIBIGVTUUTH3HOMCBPDHVP7ZSVV7K5EVAGX5AOJLQUSNAYD6PH4ZXVBZ2KRBEI3HSZYOA5ILAT3AUTXSEX57R2BGZXEWATXBO7ASO",
+                                "fareClass": "H",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 50.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 50.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 112",
+                                    "time": [
+                                        "2022-11-28T09:35:00.000",
+                                        "2022-11-28T11:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T09:35:00.000Z",
+                                        "2022-11-28T11:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 112",
+                            "time": [
+                                "2022-11-28T09:35:00.000",
+                                "2022-11-28T11:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T09:35:00.000Z",
+                                "2022-11-28T11:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 3,
+                            "flightKey": "FR~ 335~ ~~DUB~11/28/2022 11:30~LGW~11/28/2022 12:55~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "TJV3KZVARKLK52U7DMSJQRCT5ZJFX3MKDSQH2KOU5SNIIHGAOJDSCDFJ5L7I6SRB6NXGGRABGBJZBEXUFLECVSNVIFLSSI722OWWOCSODOPQAE3O6Z2S4IJ5UYPYGUF7JAC3YOWR2SRZQXGAZVIG46BOQFAWOJNIBW77J2XLPC24JIT4KLNK3YU7IQEHKPF37OS5T2XQVTAWC",
+                                "fareClass": "C",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 58.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 58.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 335",
+                                    "time": [
+                                        "2022-11-28T11:30:00.000",
+                                        "2022-11-28T12:55:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T11:30:00.000Z",
+                                        "2022-11-28T12:55:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 335",
+                            "time": [
+                                "2022-11-28T11:30:00.000",
+                                "2022-11-28T12:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T11:30:00.000Z",
+                                "2022-11-28T12:55:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 159~ ~~DUB~11/28/2022 13:10~LGW~11/28/2022 14:25~~",
+                            "infantsLeft": 16,
+                            "regularFare": {
+                                "fareKey": "SMRMX7NS7R42TE7GEKP54FI7X3JAWFTDM5T2YMSPHYC5NTI5DWME7CRWKI662562G3QYBQALRSSYN7EKA2NXCUA67VBTXL45EXVRT4NAZ4JPPL3XZNEEAJC3JEDVZ72GOTC6FBVGZG23CHHXHL4KIWJJMAUUGC6MGVJOKZTMK5MPNYB2TKFSKCVCANBSMRXAGL76USM5YAXLC",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 91.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 91.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 159",
+                                    "time": [
+                                        "2022-11-28T13:10:00.000",
+                                        "2022-11-28T14:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T13:10:00.000Z",
+                                        "2022-11-28T14:25:00.000Z"
+                                    ],
+                                    "duration": "01:15"
+                                }
+                            ],
+                            "flightNumber": "FR 159",
+                            "time": [
+                                "2022-11-28T13:10:00.000",
+                                "2022-11-28T14:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T13:10:00.000Z",
+                                "2022-11-28T14:25:00.000Z"
+                            ],
+                            "duration": "01:15"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 114~ ~~DUB~11/28/2022 15:45~LGW~11/28/2022 17:10~~",
+                            "infantsLeft": 15,
+                            "regularFare": {
+                                "fareKey": "FITGUW4MOQG3OFNDMQK47FI6UXT3FYSPKVUPHNG2RVUGSKE7YGQ7CVA52KD42PCHBGTU3ITCZVUWWCSO7P3UDAYCQTT5IHBD7FWTW4APVEPINXMVCZ7MFQCQZT26RULGP4L2TAVAU7L76FKTW3YGE4WPB3RPPY7HIKP33HXK2UKHKWIRLJ63NV5A5L7XYDJZ4HMQK3IMO4A4C",
+                                "fareClass": "O",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 67.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 67.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 114",
+                                    "time": [
+                                        "2022-11-28T15:45:00.000",
+                                        "2022-11-28T17:10:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T15:45:00.000Z",
+                                        "2022-11-28T17:10:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 114",
+                            "time": [
+                                "2022-11-28T15:45:00.000",
+                                "2022-11-28T17:10:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T15:45:00.000Z",
+                                "2022-11-28T17:10:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 116~ ~~DUB~11/28/2022 19:35~LGW~11/28/2022 21:00~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "RGGO26C7QNQRFT3FGZKOCS4253RGSBBGYJPKV6LLX5YMJJJHMB44BUIMD3CVZF7DE6Z25SO3QCYIU5TICW2CLX2TTGTYIRHZVBFXTJVIBRHPQQNIS2Q4XMWSGLEO7VSZVVEX7PXN56PVAYCTYICPGMADM5SDQ4HJF5IUR5ZJAXB34DODOMPWN5ORXQYYH2ALPSPYZT6SHXZP4",
+                                "fareClass": "L",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 143.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 143.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 116",
+                                    "time": [
+                                        "2022-11-28T19:35:00.000",
+                                        "2022-11-28T21:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-28T19:35:00.000Z",
+                                        "2022-11-28T21:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 116",
+                            "time": [
+                                "2022-11-28T19:35:00.000",
+                                "2022-11-28T21:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-28T19:35:00.000Z",
+                                "2022-11-28T21:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-11-29T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 265~ ~~DUB~11/29/2022 07:00~LGW~11/29/2022 08:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2MHFO7BRWRDC4JFSDXRHCHFSTNZ5WNZ2ZRDNFQOBKHVJMWXIUCUL32N5RS2WKLKFNNE3474NOJVFK55K6TBVG7FL3T6CHA4RIOQAD7YVKJWQ64B3RIF7F4QZ3TOHFVVAMF24MO7QWMQ675ZBZWZUT3IVO3U",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 265",
+                                    "time": [
+                                        "2022-11-29T07:00:00.000",
+                                        "2022-11-29T08:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T07:00:00.000Z",
+                                        "2022-11-29T08:25:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 265",
+                            "time": [
+                                "2022-11-29T07:00:00.000",
+                                "2022-11-29T08:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T07:00:00.000Z",
+                                "2022-11-29T08:25:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 114~ ~~DUB~11/29/2022 07:35~LGW~11/29/2022 09:00~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2JKRVHDWCHZ7MGPPM5RZM2EJDAA4ZQ2HYCY2M7CSPANPZMA64THOOH5D4ACRNAAZ7J5HGXTRJI3GS72KIDDMSINNI2KPZMUIJYLH26VWO5BCUUZT72OAT5CNDHLGOU5RLKJT6RA7EFU3RINGVPKOUZMPJO2",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 114",
+                                    "time": [
+                                        "2022-11-29T07:35:00.000",
+                                        "2022-11-29T09:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T07:35:00.000Z",
+                                        "2022-11-29T09:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 114",
+                            "time": [
+                                "2022-11-29T07:35:00.000",
+                                "2022-11-29T09:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T07:35:00.000Z",
+                                "2022-11-29T09:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 159~ ~~DUB~11/29/2022 09:20~LGW~11/29/2022 10:40~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2PE2VVMFOG3IVBZ4EXV32J325QFMO3O32S363N7JRQ5CN5WWVY6HBGCWFMSMV3VM7RD7TD2LRZUNLS4YUC7UOSU562GSFBNNNZZTWIADZWMO4PKARU4GJHJX2TJ7TR4RW4P3J3JHL5KKLQN4NEWVI45FLNC",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 159",
+                                    "time": [
+                                        "2022-11-29T09:20:00.000",
+                                        "2022-11-29T10:40:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T09:20:00.000Z",
+                                        "2022-11-29T10:40:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 159",
+                            "time": [
+                                "2022-11-29T09:20:00.000",
+                                "2022-11-29T10:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T09:20:00.000Z",
+                                "2022-11-29T10:40:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 118~ ~~DUB~11/29/2022 11:35~LGW~11/29/2022 13:00~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2LIMK7DJLIPWYZPKXUVJ3E3XK4K3SQZZAFHQNQFBXCKXGOUXZXPW45OCFNZ4ZNQVXFLOA7J3ZOWRLLJG6A6J2TOOCMQRF4OQ74W74KTSUQKZTHJPLZD5IA5OYDWMWD7GCTCIE6AKBGUU6L7OIMV6DVAVBU2",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 118",
+                                    "time": [
+                                        "2022-11-29T11:35:00.000",
+                                        "2022-11-29T13:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T11:35:00.000Z",
+                                        "2022-11-29T13:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 118",
+                            "time": [
+                                "2022-11-29T11:35:00.000",
+                                "2022-11-29T13:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T11:35:00.000Z",
+                                "2022-11-29T13:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 335~ ~~DUB~11/29/2022 13:00~LGW~11/29/2022 14:25~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2AUIBYGHR7JSJBTB46YMUE7FPQGXATPDDJJQNJKQXT6UGN3EIP4YEWX2S7GAWJEHAFDF26LYFGQPG2ZQCQSAWGHB3R5AHZXHV5RAIVMGV7XDC3I3RRZ4XNEKO5344PM3NVVSOLCO7S5KJL4LW4NZ7AMQP6E",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 335",
+                                    "time": [
+                                        "2022-11-29T13:00:00.000",
+                                        "2022-11-29T14:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T13:00:00.000Z",
+                                        "2022-11-29T14:25:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 335",
+                            "time": [
+                                "2022-11-29T13:00:00.000",
+                                "2022-11-29T14:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T13:00:00.000Z",
+                                "2022-11-29T14:25:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 120~ ~~DUB~11/29/2022 15:55~LGW~11/29/2022 17:20~~",
+                            "infantsLeft": 16,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2EDH5E3UKC47W2NFAVWDIW5LRL5ERKGU5GGZYB2Z5XAC7WSEG7MHOSHLBGB4BHZAZYKX3CM7DZK7CGXLFPTO4XVBZX4XLYVYV3DM6FLX6IY2XOJS4YLRAB5MVVNT7QSCOCXWMQWD7VPAJLX2MXWSZCJ32KU",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 120",
+                                    "time": [
+                                        "2022-11-29T15:55:00.000",
+                                        "2022-11-29T17:20:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T15:55:00.000Z",
+                                        "2022-11-29T17:20:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 120",
+                            "time": [
+                                "2022-11-29T15:55:00.000",
+                                "2022-11-29T17:20:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T15:55:00.000Z",
+                                "2022-11-29T17:20:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 112~ ~~DUB~11/29/2022 18:05~LGW~11/29/2022 19:30~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2LKKINULBBXQEIVTYPUIJUOBS5QBOXWDVYUNOLLWUNHFBCXZ3P7HNAZLJZSUVOYQYLDOLXLTMTRVPDCQ4TQUKGMCZGSI4D5SNQXPMVYXHAVDQYCONCERWPCX27K7FKOEQOCI3SKGISTDM4U6W2C3XV7WNHQ",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 112",
+                                    "time": [
+                                        "2022-11-29T18:05:00.000",
+                                        "2022-11-29T19:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T18:05:00.000Z",
+                                        "2022-11-29T19:30:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 112",
+                            "time": [
+                                "2022-11-29T18:05:00.000",
+                                "2022-11-29T19:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T18:05:00.000Z",
+                                "2022-11-29T19:30:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 116~ ~~DUB~11/29/2022 19:35~LGW~11/29/2022 21:00~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2PHO2KOL6V7HPX2YROG2GEGKSWAICM7EB6ZJCSNEYTIGGMS6BF2KAUDNXGSKOLTWXMUBNUXH5RPT3XUFSR3TUKJY6JSFB7IDWK2TEFRS5MDNWXW5EV2FEYTJ4CGMRDJFI2H55H7RKQ6QYGMZBEW3MZ7P7LY",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 116",
+                                    "time": [
+                                        "2022-11-29T19:35:00.000",
+                                        "2022-11-29T21:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-29T19:35:00.000Z",
+                                        "2022-11-29T21:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 116",
+                            "time": [
+                                "2022-11-29T19:35:00.000",
+                                "2022-11-29T21:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-29T19:35:00.000Z",
+                                "2022-11-29T21:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-11-30T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 120~ ~~DUB~11/30/2022 07:00~LGW~11/30/2022 08:20~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2EDH5E3UKC47W2NFAVWDIW5LRL4KOKLJM6WH4MB53WDPFRIHZDUJN7PWWOEORPYPLSOGRXCDR7TOJYLWBPMQOFNCLC7BL6TQZYQLAGXNXKWKAOUYZMG4NF5YU4EJT3MXO77YUNXBWIGC73NSKXX6UA3SA6S",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 120",
+                                    "time": [
+                                        "2022-11-30T07:00:00.000",
+                                        "2022-11-30T08:20:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T07:00:00.000Z",
+                                        "2022-11-30T08:20:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 120",
+                            "time": [
+                                "2022-11-30T07:00:00.000",
+                                "2022-11-30T08:20:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T07:00:00.000Z",
+                                "2022-11-30T08:20:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 114~ ~~DUB~11/30/2022 08:00~LGW~11/30/2022 09:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2JKRVHDWCHZ7MGPPM5RZM2EJDABRAK3JKQNP6ZEYVPWRUCJIBTIK2F7XFGXD34DOVOLJUSF6MAJPF6HRXRX6L3FJQSFHHIJDBC3H2SGHQ7HMOEUQAWBFEGFES3ZKUQWMN4XZZ5ITSCGW3XFB7FKNTP7QQPS",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 114",
+                                    "time": [
+                                        "2022-11-30T08:00:00.000",
+                                        "2022-11-30T09:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T08:00:00.000Z",
+                                        "2022-11-30T09:25:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 114",
+                            "time": [
+                                "2022-11-30T08:00:00.000",
+                                "2022-11-30T09:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T08:00:00.000Z",
+                                "2022-11-30T09:25:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 118~ ~~DUB~11/30/2022 09:35~LGW~11/30/2022 11:00~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2LIMK7DJLIPWYZPKXUVJ3E3XK4KYZLUKYMHPN7QGA6K6GTVSSXW6TUGOYZLDJ73CRLTDSSW3RJHHSMJWUDS34DCCGWBVAO7WGCBVU7XX3GB7EO4AGT7MDUWSF2OHR7CYJXYOEO6UH6LHOP2VGLQOBMDQA5G",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 118",
+                                    "time": [
+                                        "2022-11-30T09:35:00.000",
+                                        "2022-11-30T11:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T09:35:00.000Z",
+                                        "2022-11-30T11:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 118",
+                            "time": [
+                                "2022-11-30T09:35:00.000",
+                                "2022-11-30T11:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T09:35:00.000Z",
+                                "2022-11-30T11:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 116~ ~~DUB~11/30/2022 11:30~LGW~11/30/2022 12:55~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2PHO2KOL6V7HPX2YROG2GEGKSWBB42TUCWZNWKZIBB77QB3O5DQOGIYJFNFJK4D4GLJUIES55HYGBI7OOFYLK7YVDUA3DHT3WFNA4N5DFW35ORUF7V2CKOP7MFN7WHO6JOA2K625MACQKYHRGWRDEYKYOLG",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 116",
+                                    "time": [
+                                        "2022-11-30T11:30:00.000",
+                                        "2022-11-30T12:55:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T11:30:00.000Z",
+                                        "2022-11-30T12:55:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 116",
+                            "time": [
+                                "2022-11-30T11:30:00.000",
+                                "2022-11-30T12:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T11:30:00.000Z",
+                                "2022-11-30T12:55:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 112~ ~~DUB~11/30/2022 16:00~LGW~11/30/2022 17:20~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2LKKINULBBXQEIVTYPUIJUOBS5Q3G626VHDB2YTIVZ6OR3IBAOEDYOXRO7XQTUNPYHUGZX2HWR4AQEGCLA5WVV2CRVUIU2QIDYMTW2OAL5AQQWNZ2KNTMAIPNEKZBY7IXVNFBITRSKITJLYQMS2O4CGJHMK",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 112",
+                                    "time": [
+                                        "2022-11-30T16:00:00.000",
+                                        "2022-11-30T17:20:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T16:00:00.000Z",
+                                        "2022-11-30T17:20:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 112",
+                            "time": [
+                                "2022-11-30T16:00:00.000",
+                                "2022-11-30T17:20:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T16:00:00.000Z",
+                                "2022-11-30T17:20:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 335~ ~~DUB~11/30/2022 17:05~LGW~11/30/2022 18:30~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2AUIBYGHR7JSJBTB46YMUE7FPQGPAS7ZNJ32O3R7KQXKP6U4H5AUE5BXGU4PLZZZHO2WVHYTRVWD5WYH72PH7YL4MZENIQJWX36GD6RCY63DPHY62WB2BAVFRZXJXVHXQKPBLFOEXU3ZXXQ2JMQLPIOBAL4",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 335",
+                                    "time": [
+                                        "2022-11-30T17:05:00.000",
+                                        "2022-11-30T18:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T17:05:00.000Z",
+                                        "2022-11-30T18:30:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 335",
+                            "time": [
+                                "2022-11-30T17:05:00.000",
+                                "2022-11-30T18:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T17:05:00.000Z",
+                                "2022-11-30T18:30:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 159~ ~~DUB~11/30/2022 18:10~LGW~11/30/2022 19:35~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2PE2VVMFOG3IVBZ4EXV32J325QEP3O6OGM5MLPSF5TLY6I6GPLVICXAPIDGHAX52KKRCANUVF4AODRBKIKCH6VM6WFAFYVEM626RPMT3KX2DDGU6AH4E6L325A5KH3IU3LPJQIUGNS4NSDZJ7RD5P7QFFRQ",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 159",
+                                    "time": [
+                                        "2022-11-30T18:10:00.000",
+                                        "2022-11-30T19:35:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T18:10:00.000Z",
+                                        "2022-11-30T19:35:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 159",
+                            "time": [
+                                "2022-11-30T18:10:00.000",
+                                "2022-11-30T19:35:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T18:10:00.000Z",
+                                "2022-11-30T19:35:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 265~ ~~DUB~11/30/2022 19:45~LGW~11/30/2022 21:05~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "DHJUSG6YN4RGRQLRAVYSQDRFTORTY7I6CIIB36BE3CP6W4SUTV2MHFO7BRWRDC4JFSDXRHCHFSTNYSGBI6FDWUDTNWYEQHZMK2DYCF5EDJEMVFGRUAVN2VJPEJMEE25Z4TZ32QOT4I4WRWQKKCJNBIFTUVZOZIRXKGP4FLBLRZGVPJYR4HRYKSHMAU377KKJFXOG6DFFWZ4LI",
+                                "fareClass": "T",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 27.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 27.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 265",
+                                    "time": [
+                                        "2022-11-30T19:45:00.000",
+                                        "2022-11-30T21:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-11-30T19:45:00.000Z",
+                                        "2022-11-30T21:05:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 265",
+                            "time": [
+                                "2022-11-30T19:45:00.000",
+                                "2022-11-30T21:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-11-30T19:45:00.000Z",
+                                "2022-11-30T21:05:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-12-01T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 120~ ~~DUB~12/01/2022 07:00~LGW~12/01/2022 08:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "E62YQEEZJTRDGWLYD56ARYSHG6XWYMQ3TCW24PWBOIVVZ6VSHKRQLYDISU6OXT4VRKCVHDS2IEFYULOS3UCCFQUHWWWPQZQVY2OY2XINMXII4R34MYRKBWCUFBAEEVNURC7DN6BZUZ244FSLCFOL47LLW4UWWVXRVCINRIISJ6ILAOQKCW2YEKLAV6WCCKYIICDVZAQ45AFC4",
+                                "fareClass": "N",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 16.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 16.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 120",
+                                    "time": [
+                                        "2022-12-01T07:00:00.000",
+                                        "2022-12-01T08:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T07:00:00.000Z",
+                                        "2022-12-01T08:25:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 120",
+                            "time": [
+                                "2022-12-01T07:00:00.000",
+                                "2022-12-01T08:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T07:00:00.000Z",
+                                "2022-12-01T08:25:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 159~ ~~DUB~12/01/2022 07:30~LGW~12/01/2022 08:55~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "E62YQEEZJTRDGWLYD56ARYSHG6XWYMQ3TCW24PWBOIVVZ6VSHKRUYAIFXWLEBU6EBOHIGKHRNY5CMF2OJ2UWTFOXDZRZ23DLHNHIU3ZVVXIYIEWOD25VNJZKCFL5DNTURTCZHAHRG3WOCRNABOMMUT4N4VITPXQIO52QAIE75YP7GM4CBSTEAVHWUPLAE2A2T2CTBHKUALIT4",
+                                "fareClass": "N",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 16.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 16.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 159",
+                                    "time": [
+                                        "2022-12-01T07:30:00.000",
+                                        "2022-12-01T08:55:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T07:30:00.000Z",
+                                        "2022-12-01T08:55:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 159",
+                            "time": [
+                                "2022-12-01T07:30:00.000",
+                                "2022-12-01T08:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T07:30:00.000Z",
+                                "2022-12-01T08:55:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 3,
+                            "flightKey": "FR~ 265~ ~~DUB~12/01/2022 08:35~LGW~12/01/2022 10:00~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "LDRKEGLPXLJ7WXC4RM3Y7IRMMVN2X3JXZD7RIWWFXBM2BBON3SYQWJQMJL5VJYISBFOJQJMVSGFQKDEXPV3G7CJ55WYOAOR3VLEOL3MUCCZYPPLQLZWQOUQOJHB5F6U6GWFR26XLCCQQKNMUCFFHGZHRO4U2IEIK4YWPGVXRGOJTMTB7QXTCJ7KUXIASPNPV4ALYVH4KQR3AW",
+                                "fareClass": "M",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 23.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 23.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 265",
+                                    "time": [
+                                        "2022-12-01T08:35:00.000",
+                                        "2022-12-01T10:00:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T08:35:00.000Z",
+                                        "2022-12-01T10:00:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 265",
+                            "time": [
+                                "2022-12-01T08:35:00.000",
+                                "2022-12-01T10:00:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T08:35:00.000Z",
+                                "2022-12-01T10:00:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 3,
+                            "flightKey": "FR~ 114~ ~~DUB~12/01/2022 09:40~LGW~12/01/2022 11:05~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "MQZ3YLTIZHLO6L5LQHKHSERNQBHXALHLGWK4HJN6JWHERUXKBUMJVZ6LFSHN5HA6YV3T55ED6BZTQCAPDUK2ZFWLRXXUKBJNCJL2ATUKBI6NFLRAKIUDOLIKJYM677P5XDQM6CDT3L6B3D3NO22LXSYKX762WCYSSYR4IYPYDVW22K7NK7RQUATBMID44WXINODTTE44FETDA",
+                                "fareClass": "W",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 31.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 31.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 114",
+                                    "time": [
+                                        "2022-12-01T09:40:00.000",
+                                        "2022-12-01T11:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T09:40:00.000Z",
+                                        "2022-12-01T11:05:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 114",
+                            "time": [
+                                "2022-12-01T09:40:00.000",
+                                "2022-12-01T11:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T09:40:00.000Z",
+                                "2022-12-01T11:05:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 112~ ~~DUB~12/01/2022 11:30~LGW~12/01/2022 12:55~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "XAM5GZYD522MLAL6JDYUS5BUFOKBXQNME7HETWPINEA43M65O2DIGJIVBMHXT4X66JMII5SL3MKZ6PEIVG2TKU4YEUWLU6AESXRT52VRYI5MMYCK76IEGVNDAF4SN6YZ7KWMRQGOXEK6YKTP36PFBVFDXQ52O2IXG2PRYVM6V6TJSZSYGZBO3NAHSYO5AY6BFYKEPOYSZY7TQ",
+                                "fareClass": "H",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 50.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 50.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 112",
+                                    "time": [
+                                        "2022-12-01T11:30:00.000",
+                                        "2022-12-01T12:55:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T11:30:00.000Z",
+                                        "2022-12-01T12:55:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 112",
+                            "time": [
+                                "2022-12-01T11:30:00.000",
+                                "2022-12-01T12:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T11:30:00.000Z",
+                                "2022-12-01T12:55:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 335~ ~~DUB~12/01/2022 13:05~LGW~12/01/2022 14:30~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "XAM5GZYD522MLAL6JDYUS5BUFOKBXQNME7HETWPINEA43M65O2DE62FCF4OD4R4ZASTCMVCOI4AP5XVI7Y2FRIL6QVYARCE454BSHVC35DB4FHBBU7XKHTJPFGNQDLRHXC7PBDZMRJ4XC5SB54BCXV5QGFGHZ77T2FOT5DPR64YVWZBKFFG72TZMV6SL5UOSCEH7H5NMCZ5O4",
+                                "fareClass": "H",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 50.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 50.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 335",
+                                    "time": [
+                                        "2022-12-01T13:05:00.000",
+                                        "2022-12-01T14:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T13:05:00.000Z",
+                                        "2022-12-01T14:30:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 335",
+                            "time": [
+                                "2022-12-01T13:05:00.000",
+                                "2022-12-01T14:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T13:05:00.000Z",
+                                "2022-12-01T14:30:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 116~ ~~DUB~12/01/2022 18:15~LGW~12/01/2022 19:40~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "TJV3KZVARKLK52U7DMSJQRCT5ZJFX3MKDSQH2KOU5SNIIHGAOJD2FOO7I6W3EUVZPO3Q45QECVNIC4E4OVDPW2EOEYI3MISK6NBNBT6OKZWXVG7NPARNH72Z64NTLH3KX5NZ55OG6MK3MRPG7QM5WIPN226UNXOAOKG52CP6PFLRRTWA7TOI3RCYG6W5PEZXOA2OJ5KE27YCY",
+                                "fareClass": "C",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 58.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 58.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 116",
+                                    "time": [
+                                        "2022-12-01T18:15:00.000",
+                                        "2022-12-01T19:40:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T18:15:00.000Z",
+                                        "2022-12-01T19:40:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 116",
+                            "time": [
+                                "2022-12-01T18:15:00.000",
+                                "2022-12-01T19:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T18:15:00.000Z",
+                                "2022-12-01T19:40:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 118~ ~~DUB~12/01/2022 19:40~LGW~12/01/2022 21:05~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "PDXZ7C7MWTU4KJAFH42DQKMKSITTRUWCD6DY6GLAHHQQVRHCDVFHS2OBGQYUJ6VYY6PKTWCM6SHDRLPORBTOXBF4GIWMSU5G3TD2BPMCRALK42IF4J35G5OH57RSVJY2TWLYYKQFWFEOPCB5Q4PAIDOLD4SCYEUJ5LJBDDCPDV7KX5DY3XM5QDFFJCABJY2FQDM7WBCMPDNWS",
+                                "fareClass": "P",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 123.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 123.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 118",
+                                    "time": [
+                                        "2022-12-01T19:40:00.000",
+                                        "2022-12-01T21:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-01T19:40:00.000Z",
+                                        "2022-12-01T21:05:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 118",
+                            "time": [
+                                "2022-12-01T19:40:00.000",
+                                "2022-12-01T21:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-01T19:40:00.000Z",
+                                "2022-12-01T21:05:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-12-02T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 118~ ~~DUB~12/02/2022 07:10~LGW~12/02/2022 08:35~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "FITGUW4MOQG3OFNDMQK47FI6UXT3FYSPKVUPHNG2RVUGSKE7YGQ7TMETCXI7CMEMCJVV3LFP4FRVWEAD4B6FCV7ZNU7E5WPT2GO6TI5JEOD6EYUDLI73MRDP5VDEJX7FQEFUV56YYMVE6QL6CAB4TBDAJXTDZELDE4ZCC4TSQ5264XEEHPZZO4WXYROKS6U3TX2ELFPM2PGQM",
+                                "fareClass": "O",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 67.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 67.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 118",
+                                    "time": [
+                                        "2022-12-02T07:10:00.000",
+                                        "2022-12-02T08:35:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T07:10:00.000Z",
+                                        "2022-12-02T08:35:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 118",
+                            "time": [
+                                "2022-12-02T07:10:00.000",
+                                "2022-12-02T08:35:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T07:10:00.000Z",
+                                "2022-12-02T08:35:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 114~ ~~DUB~12/02/2022 07:40~LGW~12/02/2022 09:10~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "FITGUW4MOQG3OFNDMQK47FI6UXT3FYSPKVUPHNG2RVUGSKE7YGQXRUSRT7TRVXSIWAD6SLWLMQDUPJWLYOQHUF3D73A5GPCPKZAJUEJZHQMKV47IA5UTN4SKE67KT2YCNIIFABBEMCDLQ56652U7LN5VT34NVWFYT5E7RUXIR6TTOUXQ4IIKPR2S2DZWUGEWBBLYACLWLLKIS",
+                                "fareClass": "O",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 67.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 67.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 114",
+                                    "time": [
+                                        "2022-12-02T07:40:00.000",
+                                        "2022-12-02T09:10:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T07:40:00.000Z",
+                                        "2022-12-02T09:10:00.000Z"
+                                    ],
+                                    "duration": "01:30"
+                                }
+                            ],
+                            "flightNumber": "FR 114",
+                            "time": [
+                                "2022-12-02T07:40:00.000",
+                                "2022-12-02T09:10:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T07:40:00.000Z",
+                                "2022-12-02T09:10:00.000Z"
+                            ],
+                            "duration": "01:30"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 120~ ~~DUB~12/02/2022 11:30~LGW~12/02/2022 12:55~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "DYUNFNNDQF74FR7W6R5GQ27HALIKSISYVXBFQVUJ63NJIR652WNHPHJU5HX6LOWTGNHUNE4GEXMEZVPDT7CR3C5MILENHNJH26X2OCKX6Y4TF6EDMKH5M55WTW46OV3UWDZ7MUSH5LGZFUXBTZ4O2TYCMM4ZURQWRWOXJSHAEEN5FDPFRCYX6SBQ6S6CTKHPARBFHHVT35RSE",
+                                "fareClass": "F",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 167.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 167.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 120",
+                                    "time": [
+                                        "2022-12-02T11:30:00.000",
+                                        "2022-12-02T12:55:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T11:30:00.000Z",
+                                        "2022-12-02T12:55:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 120",
+                            "time": [
+                                "2022-12-02T11:30:00.000",
+                                "2022-12-02T12:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T11:30:00.000Z",
+                                "2022-12-02T12:55:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 159~ ~~DUB~12/02/2022 13:10~LGW~12/02/2022 14:30~~",
+                            "infantsLeft": 16,
+                            "regularFare": {
+                                "fareKey": "VCZGFX7MQO7QOBUQOZYNBQF4LUMDQO5UWSATAKNDABGG7VA4JIZ64BJ4N5XXGBHYNY24F4JC5XEP2E6VPRBXO7TKNK6LY5AMMD5XC6P7IVVVQY67PHFZAGPNMYPS6PNVMXDS4YSQRUXZBPSERCYXPU57S5HMUNSSJF5CTCUFKW6FUMYYTXMTMJ4WVOIEFZAXVWVWVM3TIXNPC",
+                                "fareClass": "E",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 106.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 106.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 159",
+                                    "time": [
+                                        "2022-12-02T13:10:00.000",
+                                        "2022-12-02T14:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T13:10:00.000Z",
+                                        "2022-12-02T14:30:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 159",
+                            "time": [
+                                "2022-12-02T13:10:00.000",
+                                "2022-12-02T14:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T13:10:00.000Z",
+                                "2022-12-02T14:30:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 112~ ~~DUB~12/02/2022 16:00~LGW~12/02/2022 17:20~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "RGGO26C7QNQRFT3FGZKOCS4253RGSBBGYJPKV6LLX5YMJJJHMB4TTKMLS5W72UCUAYQWMMEAHXDLKTPTKH66LDOZAAEGWJRSPBRZLGT77OFNZZNLBDULGX7PX5GICCSUTLD4FS42RHJWVF5ERK2JAHGJJTW6LXKZHSZATOSTHKFAV7PK2UHQXSV6WGX37LLWFK5223NN33JAM",
+                                "fareClass": "L",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 143.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 143.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 112",
+                                    "time": [
+                                        "2022-12-02T16:00:00.000",
+                                        "2022-12-02T17:20:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T16:00:00.000Z",
+                                        "2022-12-02T17:20:00.000Z"
+                                    ],
+                                    "duration": "01:20"
+                                }
+                            ],
+                            "flightNumber": "FR 112",
+                            "time": [
+                                "2022-12-02T16:00:00.000",
+                                "2022-12-02T17:20:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T16:00:00.000Z",
+                                "2022-12-02T17:20:00.000Z"
+                            ],
+                            "duration": "01:20"
+                        },
+                        {
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 265~ ~~DUB~12/02/2022 17:05~LGW~12/02/2022 18:30~~",
+                            "infantsLeft": 15,
+                            "regularFare": {
+                                "fareKey": "SMRMX7NS7R42TE7GEKP54FI7X3JAWFTDM5T2YMSPHYC5NTI5DWMFVMDWGVK7QIMNISVTITXSEVZ7D4C7PWMSIHE3FRRMCUXELX5A242L263EFGSZF2JK7BBT5M2MOHOWE4PFBIPYV7C7W5BDJDMG5SC6FKDPXDO6BD3KL23ATHM4WMEWITCSB6ZYSTBPOBWBIBXJOYDQ2HXYQ",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 91.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 91.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 265",
+                                    "time": [
+                                        "2022-12-02T17:05:00.000",
+                                        "2022-12-02T18:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T17:05:00.000Z",
+                                        "2022-12-02T18:30:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 265",
+                            "time": [
+                                "2022-12-02T17:05:00.000",
+                                "2022-12-02T18:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T17:05:00.000Z",
+                                "2022-12-02T18:30:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 4,
+                            "flightKey": "FR~ 116~ ~~DUB~12/02/2022 18:15~LGW~12/02/2022 19:40~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "VCZGFX7MQO7QOBUQOZYNBQF4LUMDQO5UWSATAKNDABGG7VA4JIZRYJXVGIYXWRQAFEVG2OJHFSBXEBDCMF5XR2S5QFZ6ECULYRJJDOUTXVEHUMK4A5ET2NVGUCKDWO74VV6VKDE4RU5J37N6NCXXFQ4FBTPU42UB6OZ3RQ2AA6SLY52PGVOVXMN3SUUFQOEYXW3B5WCEE7GHA",
+                                "fareClass": "E",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 106.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 106.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 116",
+                                    "time": [
+                                        "2022-12-02T18:15:00.000",
+                                        "2022-12-02T19:40:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T18:15:00.000Z",
+                                        "2022-12-02T19:40:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 116",
+                            "time": [
+                                "2022-12-02T18:15:00.000",
+                                "2022-12-02T19:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T18:15:00.000Z",
+                                "2022-12-02T19:40:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        },
+                        {
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 335~ ~~DUB~12/02/2022 19:40~LGW~12/02/2022 21:05~~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "FITGUW4MOQG3OFNDMQK47FI6UXT3FYSPKVUPHNG2RVUGSKE7YGQ525RDF2EDK2OP7EPIZXVEQ2FHEKYJT6GW43P2RN4SZ4EZI2JNJOIEEQIFLOFX5WOKIW6Y6FQFVK22GWMVWGUBEMGFPDW34KSZ245VESAAZ7BSQ2KMK36A3DN3EFUTHZC3DFRL6QS2TJDNFK5JCTF6KDQPI",
+                                "fareClass": "O",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 67.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 67.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "DUB",
+                                    "destination": "LGW",
+                                    "flightNumber": "FR 335",
+                                    "time": [
+                                        "2022-12-02T19:40:00.000",
+                                        "2022-12-02T21:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-12-02T19:40:00.000Z",
+                                        "2022-12-02T21:05:00.000Z"
+                                    ],
+                                    "duration": "01:25"
+                                }
+                            ],
+                            "flightNumber": "FR 335",
+                            "time": [
+                                "2022-12-02T19:40:00.000",
+                                "2022-12-02T21:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-12-02T19:40:00.000Z",
+                                "2022-12-02T21:05:00.000Z"
+                            ],
+                            "duration": "01:25"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "serverTimeUTC": "2022-11-24T17:27:25.433Z"
+}
