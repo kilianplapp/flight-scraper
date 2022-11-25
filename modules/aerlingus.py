@@ -6,7 +6,27 @@ def get(date, origin, destination, flex):
     date = str(date).split('-')
     date = date[2] + "%2F" + date[1] + "%2F" + date[0]
     if str(flex).upper() == "Y":
-        flex 
+        
+        r = requests.get(f"https://www.aerlingus.com/api/v2/flights/flexible?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
+        if r.status_code != 200:
+            print("Error getting Aer Lingus flights.")
+            return flights
+        r = r.json()
+        for flight in r['data']['alternativeDates']['outbound']['dates']:
+            fare = classes.fare(
+                fareId="",
+                price=flight['price'],
+                type=""
+            )
+            flights.append(classes.flight(
+                origin=origin,
+                destination=destination,
+                date=flight['date'],
+                flightNumber="n/a",
+                link="n/a",
+                id="n/a",
+                fares=fare
+            ))
     else:
         r = requests.get(f"https://www.aerlingus.com/api/v2/flights/fixed?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
         

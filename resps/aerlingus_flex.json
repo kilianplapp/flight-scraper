@@ -1,0 +1,82 @@
+{
+    "data": {
+        "type": "flights",
+        "attributes": {
+            "currency": "EUR",
+            "isValidPromoCode": true,
+            "isTransatlantic": false
+        },
+        "primaryDates": {
+            "outbound": {
+                "dates": [
+                    {
+                        "price": 395.29,
+                        "date": "2022-11-27T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-11-28T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-11-29T00:00:00",
+                        "inService": false
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-11-30T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-12-01T00:00:00",
+                        "inService": false
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-12-02T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": null,
+                        "date": "2022-12-03T00:00:00",
+                        "inService": false
+                    }
+                ],
+                "message": {
+                    "code": "SOLD_OUT",
+                    "severity": "info",
+                    "title": "All flights are sold out for this date",
+                    "details": "Here are the closest available dates:",
+                    "link": null
+                }
+            },
+            "inbound": null
+        },
+        "alternativeDates": {
+            "outbound": {
+                "dates": [
+                    {
+                        "price": 395.29,
+                        "date": "2022-11-27T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": 266.69,
+                        "date": "2022-12-04T00:00:00",
+                        "inService": true
+                    },
+                    {
+                        "price": 103.49,
+                        "date": "2022-12-05T00:00:00",
+                        "inService": true
+                    }
+                ],
+                "message": null
+            },
+            "inbound": null
+        }
+    }
+}
