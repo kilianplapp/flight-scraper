@@ -1,14 +1,14 @@
 import requests
 from .models import classes
 
-def get(date, origin, destination, flex):
+def get(date, origin, destination, flex, s:requests.Session):
     flights = []
     try:
         date = str(date).split('-')
         date = date[2] + "%2F" + date[1] + "%2F" + date[0]
         if str(flex).upper() == "Y":
             
-            r = requests.get(f"https://www.aerlingus.com/api/v2/flights/flexible?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
+            r = s.get(f"https://www.aerlingus.com/api/v2/flights/flexible?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
             if r.status_code != 200:
                 print("Error getting Aer Lingus flights.")
                 return flights
@@ -29,7 +29,7 @@ def get(date, origin, destination, flex):
                     fares=fare
                 ))
         else:
-            r = requests.get(f"https://www.aerlingus.com/api/v2/flights/fixed?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
+            r = s.get(f"https://www.aerlingus.com/api/v2/flights/fixed?departureDate={date}&destination={destination}&fare=low&numAdults=1&numChildren=0&numInfants=0&numYouths=0&origin={origin}")
             
             if r.status_code != 200:
                 print("Error getting Aer Lingus flights.")
