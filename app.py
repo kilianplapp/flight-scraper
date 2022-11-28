@@ -1,5 +1,6 @@
-import modules
+import flight_scraper
 import csv
+import requests
 
 def main():
     date = input("Date (YYYY-MM-DD): ")
@@ -19,7 +20,9 @@ def main():
         print("Incorrect flexible days format, (Y/N)")
         return
 
-    flights = modules.getAll(date, origin, destination, flexible)
+    session = requests.Session()
+    session.headers
+    flights = flight_scraper.getAll(date, origin, destination, flexible, session)
     with open('output.csv', 'w') as f:
         writer = csv.writer(f)
         for flight in flights:

@@ -1,14 +1,14 @@
 import requests
 from .models import classes
 
-def get(date, origin, destination, flex):
+def get(date, origin, destination, flex, s:requests.Session):
     flights = []
     try:
         if str(flex).upper() == "Y":
             flex = 2
         else:
             flex=0
-        r = requests.get(f"https://www.ryanair.com/api/booking/v4/en-ie/availability?ADT=1&CHD=0&DateIn=&DateOut={date}&Destination={destination}&Disc=0&INF=0&Origin={origin}&TEEN=0&promoCode=&IncludeConnectingFlights=false&FlexDaysBeforeOut={flex}&FlexDaysOut={flex}&FlexDaysBeforeIn={flex}&FlexDaysIn=2&RoundTrip=false&ToUs=AGREED")
+        r = s.get(f"https://www.ryanair.com/api/booking/v4/en-ie/availability?ADT=1&CHD=0&DateIn=&DateOut={date}&Destination={destination}&Disc=0&INF=0&Origin={origin}&TEEN=0&promoCode=&IncludeConnectingFlights=false&FlexDaysBeforeOut={flex}&FlexDaysOut={flex}&FlexDaysBeforeIn={flex}&FlexDaysIn=2&RoundTrip=false&ToUs=AGREED")
         
         if r.status_code != 200:
             return flights
